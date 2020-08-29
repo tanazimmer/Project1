@@ -1,0 +1,51 @@
+route_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+1,1,"St. Clair",,3,http://www.riderta.com/routes/1/,,
+2,2,"East 79",,3,http://www.riderta.com/routes/2/,,
+3,3,"Superior",,3,http://www.riderta.com/routes/3/,,
+5,5,"Chagrin",,3,http://www.riderta.com/routes/5/,,
+6,HealthLine,"BRT",,3,http://www.riderta.com/routes/HealthLine/,747474,FFFFFF
+7,7,"Monticello - Euclid Hts.",,3,http://www.riderta.com/routes/7/,,
+8,8,"Cedar - E. 116",,3,http://www.riderta.com/routes/8/,,
+9,9,"Mayfield",,3,http://www.riderta.com/routes/9/,,
+10,10,"East 105",,3,http://www.riderta.com/routes/10/,,
+11,11,"Quincy - Buckeye",,3,http://www.riderta.com/routes/11/,,
+14,14,"Kinsman",,3,http://www.riderta.com/routes/14/,,
+15,15,"Union - Harvard",,3,http://www.riderta.com/routes/15/,,
+16,16,"East 55",,3,http://www.riderta.com/routes/16/,,
+19,19,"Broadway - Miles",,3,http://www.riderta.com/routes/19/,,
+22,22,"Lorain Ave.",,3,http://www.riderta.com/routes/22/,,
+25,25,"Madison - Detroit",,3,http://www.riderta.com/routes/25/,,
+26,26,"Detroit",,3,http://www.riderta.com/routes/26/,,
+28,28-28A,"Euclid",,3,http://www.riderta.com/routes/28-28a/,,
+30,30,"E. 140 - Lakeshore",,3,http://www.riderta.com/routes/30/,,
+32,32,"Cedar",,3,http://www.riderta.com/routes/32/,,
+34,34,"East 200 - Green",,3,http://www.riderta.com/routes/34/,,
+37,37,"East 185 - Taylor",,3,http://www.riderta.com/routes/37/,,
+38,38,"Hough",,3,http://www.riderta.com/routes/38/,,
+39,39-39F,"Lakeshore",,3,http://www.riderta.com/routes/39-39f/,,
+40,40,"Lakeview - Lee",,3,http://www.riderta.com/routes/40/,,
+41,41-41F,"Warrensville",,3,http://www.riderta.com/routes/41-41f/,,
+45,45,"Ridge",,3,http://www.riderta.com/routes/45/,,
+48,48-48A,"University Circle - East 131",,3,http://www.riderta.com/routes/48-48a/,,
+49,49,"Lorain - Center Ridge",,3,http://www.riderta.com/routes/49/,,
+51,51-A-B-C,"MetroHealth Line",,3,http://www.riderta.com/routes/MetroHealthLine/,15AAA6,000000
+53f,53F,"Broadview - N. Royalton",,3,http://www.riderta.com/routes/53f/,,
+54,54,"Brookpark",,3,http://www.riderta.com/routes/54/,,
+55,55-A-B-C,"Cleveland State Line",,3,http://www.riderta.com/routes/ClevelandStateLine/,006341,FFFFFF
+62,62,"B-Line Trolley",,3,http://www.riderta.com/routes/b-line/,CE5628,000000
+66,Red Line,"Heavy Rail",,1,http://www.riderta.com/routes/redline/,BA0C2F,FFFFFF
+66r,Red Line Replacement,"Red Line Replacement Bus",,3,http://www.riderta.com/routes/redline/,BA0C2F,FFFFFF
+67,Blue/Green/Waterfront Line,"Light Rail",,0,http://www.riderta.com/routes/rail/,3B8189,FFFFFF
+75,75,"Lorain",,3,http://www.riderta.com/routes/75/,,
+76,76,"Broadway - Turney",,3,http://www.riderta.com/routes/76/,,
+77f,77F,"Brecksville",,3,http://www.riderta.com/routes/77f/,,
+78,78,"West 117 - Puritas",,3,http://www.riderta.com/routes/78/,,
+79,79-79A,"Fulton",,3,http://www.riderta.com/routes/79-79a/,,
+81,81,"Tremont - Storer",,3,http://www.riderta.com/routes/81/,,
+83,83,"Warren - West 130",,3,http://www.riderta.com/routes/83/,,
+86,86,"Rocky River Dr. - Bagley",,3,http://www.riderta.com/routes/86/,,
+90f,90F,"Broadway - Libby",,3,http://www.riderta.com/routes/90f/,,
+94,94,"East 260 - Richmond",,3,http://www.riderta.com/routes/94/,,
+246,246,"Westlake Park-N-Ride",,3,http://www.riderta.com/routes/246/,00468C,FFFFFF
+251,251,"Strongsville Park-N-Ride",,3,http://www.riderta.com/routes/251/,00468C,FFFFFF
+263,263,"North Olmsted Park-N-Ride",,3,http://www.riderta.com/routes/263/,00468C,FFFFFF
