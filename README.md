@@ -1,1 +1,2 @@
-# Project1
+# Project1 Objective
+Our goal of this project project is to analyze the correlations between Cleveland RTA bus stops and 3 categories of establishments: Restaurants, Hospitals, and Colleges/Universities.  We will use CSV files provided by the Cleveland RTA site to plot locations on heatmaps.  We will overlay heatmaps of our categories via the GoogleMaps API to visualize the data, and we will use scatter plots and regression lines to analyze the correlation.
