@@ -16,4 +16,6 @@ Data used as input can be found in the Resources folder with text and csv files 
 Jupyter file used for data cleaning, analysis and creation of charts. Charts created are saved in Results folder. Presentation was done with project, link to slides on Google slides added.
 Based on team's research there are gaps in school coverage for the RTA
 
+Slides: https://docs.google.com/presentation/d/1bG_9sMwYjpx6YqSfi0kR0U4rNCOVraQ1567sOdnnmh0/edit#slide=id.p
 
+Proposal: https://docs.google.com/document/d/1rTMN5nb6Otm_Es1L74hnDoG4eQpURL_y-q_xuX5m3e0/edit
