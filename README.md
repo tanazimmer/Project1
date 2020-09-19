@@ -12,7 +12,7 @@ Segun Olorunfemi: Research data on population density of the Cuhayoga county, an
 
 Jermaine Coleman: Research data on hospitals in Cuhayoga county, built heatmap of hospitals, analyzed hospital data, built Google heatmaps of hospital locations on the RTA route using Google API, hospital slides on presentation and worked on creating and formatting slides.
 
-Robert Payne: Research data on educational institutions in Cuhayoga county, analyzed education data, built Google heatmaps of schools on the RTA route using Google API. reached out to RTA regarding rider data by route and education slides on presentation.
+Robert Payne: Researched data on universities, trade schools, and high schools in Cuyahoga County. Built heatmaps based on Google API data, RTA published university list, and Ohio Dept of Education list of High Schools. Built graphs using matplotlib supporting the heat maps and RTA ridership decline.
 
 Leah Brady: Researched data on commute times on route in the RTA, analyzed commute times, built charts and graphs using matplotlib, statistical analysis of commute times, built Google heatmap on longest trip using Google API and commute slides on presentation.
 
